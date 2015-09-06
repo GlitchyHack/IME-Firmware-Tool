@@ -1,0 +1,11 @@
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\bin\x86\Release\IME Firmware Tool.exe.config
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\bin\x86\Release\IME Firmware Tool.exe
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\bin\x86\Release\IME Firmware Tool.pdb
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\bin\x86\Release\SevenZipSharp.dll
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\IME Firmware Tool.csproj.ResolveComReference.cache
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\IME_Firmware_Tool.IMEFirmwareTool.resources
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\IME_Firmware_Tool.Properties.Resources.resources
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\IME Firmware Tool.csproj.GenerateResource.Cache
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\IME Firmware Tool.exe
+D:\Dropbox\Projects\Visual Studio\C#\IME Firmware Tool\obj\x86\Release\IME Firmware Tool.pdb

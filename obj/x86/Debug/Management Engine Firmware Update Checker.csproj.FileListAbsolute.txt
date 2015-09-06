@@ -1,0 +1,9 @@
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\x86\Debug\Management Engine Firmware Update Checker.csproj.GenerateResource.Cache
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\x86\Debug\Management Engine Firmware Update Checker.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\bin\x86\Debug\IME Firmware Tool.exe.config
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\bin\x86\Debug\IME Firmware Tool.exe
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\bin\x86\Debug\IME Firmware Tool.pdb
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\x86\Debug\IME Firmware Tool.exe
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\x86\Debug\IME Firmware Tool.pdb
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\x86\Debug\IME_Firmware_Tool.Properties.Resources.resources
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\x86\Debug\IME_Firmware_Tool.IMEFirmwareTool.resources

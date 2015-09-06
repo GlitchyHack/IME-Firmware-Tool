@@ -1,0 +1,9 @@
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\bin\Debug\Management Engine Firmware Update Checker.exe.config
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\bin\Debug\Management Engine Firmware Update Checker.exe
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\bin\Debug\Management Engine Firmware Update Checker.pdb
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\Debug\Management Engine Firmware Update Checker.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\Debug\Management_Engine_Firmware_Update_Checker.MEUpdateChecker.resources
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\Debug\Management_Engine_Firmware_Update_Checker.Properties.Resources.resources
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\Debug\Management Engine Firmware Update Checker.csproj.GenerateResource.Cache
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\Debug\Management Engine Firmware Update Checker.exe
+D:\Dropbox\Projects\Visual Studio\C#\Management Engine Firmware Update Checker\obj\Debug\Management Engine Firmware Update Checker.pdb
